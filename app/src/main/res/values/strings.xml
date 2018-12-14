@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyPapplication</string>
+    <string name="button1">CHANGE BACKGROUND</string>
+    <string name="button2">CHANGE BUTTONS</string>
+    <string name="button3">CHANGE FONT</string>
+    <string name="buttonOk">OK</string>
+    <string name="buttonCancel">CANCEL</string>
+    <string name="back_message">Cancelled</string>
+    <string-array name="color_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
